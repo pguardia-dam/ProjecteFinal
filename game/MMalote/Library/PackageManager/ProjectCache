@@ -521,11 +521,13 @@ m_ResolvedPackages:
     - 2.0.23
     - 2.0.25
     - 2.0.26
+    - 2.0.27
     compatible:
     - 2.0.23
     - 2.0.25
     - 2.0.26
-    recommended: 2.0.26
+    - 2.0.27
+    recommended: 2.0.27
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -4904,11 +4906,13 @@ m_ResolvedPackages:
     - 1.8.25
     - 1.8.26
     - 1.8.27
+    - 1.8.28
     compatible:
     - 1.8.25
     - 1.8.26
     - 1.8.27
-    recommended: 1.8.27
+    - 1.8.28
+    recommended: 1.8.28
     deprecated: []
   dependencies:
   - name: com.unity.mathematics

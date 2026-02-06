@@ -14,7 +14,6 @@ public class animationStateController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-            Debug.Log("Key K pressed");
         if(Input.GetKeyDown(KeyCode.K))
         {
             Debug.Log("Key K pressed");
